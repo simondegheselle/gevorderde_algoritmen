@@ -1,0 +1,23 @@
+digraph {
+"1"[label="1:een"];
+"2" [shape=point];
+"3"[label="5:vijf"];
+"4"[label="3:drie"];
+"5" [shape=point];
+"6" [shape=point];
+"4" -> "5";
+"4" -> "6";
+"7"[label="9:negen"];
+"8"[label="7:zeven"];
+"9" [shape=point];
+"10" [shape=point];
+"8" -> "9";
+"8" -> "10";
+"11" [shape=point];
+"7" -> "8";
+"7" -> "11";
+"3" -> "4";
+"3" -> "7";
+"1" -> "2";
+"1" -> "3";
+}

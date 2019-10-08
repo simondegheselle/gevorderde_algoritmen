@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/simon/Documents/drive/industrieel/algoritmen 2/labo_02/SplayTree.cpp
+iostream
+-
+splaytree.h
+/cygdrive/c/Users/simon/Documents/drive/industrieel/algoritmen 2/labo_02/splaytree.h
+
+/cygdrive/c/Users/simon/Documents/drive/industrieel/algoritmen 2/labo_02/searchtree.h
+cstdlib
+-
+iostream
+-
+queue
+-
+random
+-
+memory
+-
+functional
+-
+fstream
+-
+cassert
+-
+sstream
+-
+
+/cygdrive/c/Users/simon/Documents/drive/industrieel/algoritmen 2/labo_02/splaytree.h
+searchtree.h
+/cygdrive/c/Users/simon/Documents/drive/industrieel/algoritmen 2/labo_02/searchtree.h
+
